@@ -1,0 +1,10 @@
+Package:DemoOfMRP
+Version:0.9.0.0
+Date:2016-08-01
+Title:Demo of Make_R-Package
+Author:Takehito Nishida
+Maintainer:Takehito Nishida <Takehito.Nishida@gmail.com>
+Depends:R (>= 3.1.0)
+Description:This package is for demo.
+License:The MIT License
+URL:https://waku-take-a.github.io/
