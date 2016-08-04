@@ -1,26 +1,26 @@
 ##########################################################
-ƒpƒbƒP[ƒW‚ðì¬‚·‚éƒXƒNƒŠƒvƒg
+ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã‚’ä½œæˆã™ã‚‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
 
-[Žè‡]
-(1) Rtools‚ðƒCƒ“ƒXƒg[ƒ‹‚µ‚Ü‚·
-  iRtools\bin‚ÌƒpƒX‚ð’Ê‚·‚±‚Æj
+[æ‰‹é †]
+(1) Rtoolsã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¾ã™
+  ï¼ˆRtools\binã®ãƒ‘ã‚¹ã‚’é€šã™ã“ã¨ï¼‰
 
-(2) ˆÈ‰º‚Ìƒtƒ@ƒCƒ‹‚ª“¯ˆê‚ÌƒtƒHƒ‹ƒ_‚É‚ ‚é‚±‚Æ‚ðŠm”F‚µ‚Ü‚·
-  * _DESCRIPTION.txtiDESCRIPTION_FILEj
-  * _INDEX.csviINDEX_FILEj
-  * _Make_R-Package.r
-  * rƒtƒ@ƒCƒ‹
-  * rdƒtƒ@ƒCƒ‹i•K—v‚Å‚ ‚ê‚Îj
+(2) ä»¥ä¸‹ã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒåŒä¸€ã®ãƒ•ã‚©ãƒ«ãƒ€ã«ã‚ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¾ã™
+  * _DESCRIPTION.txt
+  * _INDEX.csv
+  * _RMakePackage.r
+  * rãƒ•ã‚¡ã‚¤ãƒ«
+  * rdãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆå¿…è¦ã§ã‚ã‚Œã°ï¼‰
 
-(3) ˆÈ‰º‚Ìƒtƒ@ƒCƒ‹‚ð“KØ‚ÉC³‚µ‚Ä‚­‚¾‚³‚¢
-  * _DESCRIPTION.txtiDESCRIPTION_FILEj
-  * _INDEX.csviINDEX_FILEj
-    - ƒpƒbƒP[ƒWŽ©‘Ì‚Ìà–¾‚ð–Y‚ê‚È‚¢‚±‚Æ
-    - ÅIs‚à‰üs‚µ‚Ä‚¢‚é‚±‚Æ
+(3) ä»¥ä¸‹ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’é©åˆ‡ã«ä¿®æ­£ã—ã¦ãã ã•ã„
+  * _DESCRIPTION.txt
+  * _INDEX.csv
+    - ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸è‡ªä½“ã®èª¬æ˜Žã‚’å¿˜ã‚Œãªã„ã“ã¨
+    - æœ€çµ‚è¡Œã‚‚æ”¹è¡Œã—ã¦ã„ã‚‹ã“ã¨
 
-(4) ŠÇ—ŽÒŒ ŒÀ‚ÅR‚ð‹N“®‚µ‚Ü‚·
+(4) ç®¡ç†è€…æ¨©é™ã§Rã‚’èµ·å‹•ã—ã¾ã™
 
-(5) _MakePackage.r‚ðŽÀs‚µ‚Ü‚·
-  * ƒtƒ@ƒCƒ‹ Ë RƒR[ƒh‚Ìƒ\[ƒX‚ð“Çž‚Ý
+(5) _RMakePackage.rã‚’å®Ÿè¡Œã—ã¾ã™
+  * ãƒ•ã‚¡ã‚¤ãƒ« â‡’ Rã‚³ãƒ¼ãƒ‰ã®ã‚½ãƒ¼ã‚¹ã‚’èª­è¾¼ã¿
 
 ##########################################################
