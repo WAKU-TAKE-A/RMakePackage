@@ -18,7 +18,7 @@ R script to make a package
     - Don't forget the description of the package itself.
     - Start a new line in the last line.
 
-(4) Start R  by administrator.
+(4) Start R by administrator.
 
 (5) run _RMakePackage.r
 
