@@ -16,7 +16,8 @@
 最近はR-Studioで作る方法もたびたび見かけます。  
 興味のある方はGoogleで「Rstudio パッケージ  作成」を検索してみると良いと思います。
 
-こちらのスクリプトは複雑なことはできませんが、本体以外はRtoolsさえあれば良い点と、手順が簡易な点が、自分では気に入ってます。  
+こちらのスクリプトは複雑なことはできませんが、  
+本体以外はRtoolsさえあれば良い点と、手順が簡易な点が、自分では気に入ってます。  
 R-3.0.2あたりからR-3.3.1までに少しずつ洗練されしてきたものです。
 
 使い方は[こちら](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home)を参照してください。
@@ -30,4 +31,5 @@ But making a package is difficult. The sequence is as follows.
 1. Editing various files (very difficult)
 1. Build
 
-How to make a package is [here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en).
+I created the script to make a package.  
+[Here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en) is How to use it.
