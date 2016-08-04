@@ -1,25 +1,26 @@
 # RMkePackage
-[���{��̃��b�Z�[�W - >](#ja)  
+[日本語のメッセージ - >](#ja)  
 [English messages - >](#en)  
 
-## <a name="ja">���b�Z�[�W
-���v���R���g���Ȃ�Ă����My�֐��������Ă��ăp�b�P�[�W����肽���Ȃ�܂��B  
-�ł�R�̃p�b�P�[�W�����͈̂�ؓ�ł͂����܂���B��A�̗���Ƃ��ẮA�ȉ��̒ʂ�ł��B
+## <a name="ja">メッセージ
+統計解析Rに使いなれてくるとMy関数が増えてきて、パッケージ化したくなると思います。  
+でもRのパッケージを作るのは、なかなか難しいです。一連の流れとしては、以下の通りです。
 
-1. �K�v�Ȋ֐��̒�`
-1. package.skelton()�Ńp�b�P�[�W�̐��`���쐬
-1. �l�X�ȃt�@�C���̕ҏW�i���ꂪ���ɑ�ςł��j
-1. �r���h
+1. 必要な関数の定義
+1. package.skelton()でパッケージの雛形を作成
+1. 様々なファイルの編集（これが非常に大変です）
+1. ビルド
 
-�Œ���̃p�b�P�[�W���쐬���邽�߂̃X�N���v�g���쐬���܂����̂Ō��J���܂��B
+パッケージを作成するためのスクリプトを作成しましたので公開します。
 
-�ŋ߂�R-Studio�ō����@�����т��ь������܂��B  
-�����̂������Google�ŁuRstudio �p�b�P�[�W  �쐬�v���������Ă݂�̂��ǂ��Ǝv���܂��B
+最近はR-Studioで作る方法もたびたび見かけます。  
+興味のある方はGoogleで「Rstudio パッケージ  作成」を検索してみると良いと思います。
 
-������͕��G�Ȃ��Ƃ͂ł��܂��񂪁A�{�̈ȊO��Rtools��������Ηǂ��_�ƁA�菇���ȈՂȓ_���A�����ł͋C�ɓ����Ă܂��B  
-R-3.0.2�����肩��R-3.3.1�܂łɏ������������ꂵ�Ă������̂ł��B
+こちらのスクリプトは複雑なことはできませんが、  
+本体以外はRtoolsさえあれば良い点と、手順が簡易な点が、自分では気に入ってます。  
+R-3.0.2あたりからR-3.3.1までに少しずつ洗練されしてきたものです。
 
-�g������[������](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home)���Q�Ƃ��Ă��������B
+使い方は[こちら](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home)を参照してください。
 
 ## <a name="en">Message
 When you are used to R, you will want to make a package.  
@@ -30,4 +31,5 @@ But making a package is difficult. The sequence is as follows.
 1. Editing various files (very difficult)
 1. Build
 
-How to make a package is [here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en).
+I created the script to make a package.  
+[Here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en) is How to use it.
