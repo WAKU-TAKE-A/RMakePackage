@@ -3,6 +3,8 @@
 [English messages - >](#en)  
 
 ## <a name="ja">メッセージ
+これは、統計解析Rのパッケージを作成するためのスクリプトです。
+
 統計解析Rに使いなれてくるとMy関数が増えてきて、パッケージ化したくなると思います。  
 でもRのパッケージを作るのは、なかなか難しいです。一連の流れとしては、以下の通りです。
 
@@ -23,6 +25,8 @@ R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです
 使い方は[こちら](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home)を参照してください。
 
 ## <a name="en">Message
+This is the R script of making a package.
+
 When you are used to R, you will want to make a package.  
 But making a package is difficult. The sequence is as follows.
 
@@ -31,5 +35,5 @@ But making a package is difficult. The sequence is as follows.
 1. Editing various files (very difficult)
 1. Build
 
-I created the script to make a package.  
+I created the script to make a package easily.  
 [Here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en) is How to use it.
