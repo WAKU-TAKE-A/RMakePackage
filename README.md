@@ -20,7 +20,8 @@
 
 私のスクリプトは複雑なことはできませんが、  
 本体以外はRtoolsさえあれば良い点と、手順が簡単な点が、気に入ってます。  
-R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです。
+R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです。  
+R-3.4.0においても正常に動いています。
 
 使い方は[こちら](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home)を参照してください。
 
@@ -36,4 +37,5 @@ But making a package is difficult. The sequence is as follows.
 1. Build
 
 I created the script to make a package easily.  
+It works well also in R-3.4.0.  
 [Here](https://github.com/WAKU-TAKE-A/RMkePackage/wiki/Home_en) is How to use it.
