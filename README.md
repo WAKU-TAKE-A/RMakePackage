@@ -1,4 +1,4 @@
-# RMkePackage
+# RMakePackage
 [日本語のメッセージ - >](#ja)  
 [English messages - >](#en)  
 
