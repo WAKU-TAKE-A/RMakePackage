@@ -39,7 +39,7 @@ It works well also in R-3.4.0.
 
 (5) run _RMakePackage.r
 
-![MyGIF](https://github.com/WAKU-TAKE-A/RMakePackage/wiki/img/how_to_use_RMakePackage.gif)
+![MyGIF](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/how_to_use_RMakePackage.gif)
 
 ## Remark
 
@@ -71,7 +71,7 @@ R-3.4.0においても正常に動いています。
 ## 使い方
 (1) [Rtools](https://cran.r-project.org/bin/windows/Rtools/)をインストールし、Rtools\binのパスを通す。
 
-![MyGIF](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/how_to_use_RMakePackage.gif)
+![MyJpg](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/install_rtools_01.jpg)
 
 (2) 以下のファイルが同一のフォルダにあることを確認します。
 
