@@ -1,6 +1,6 @@
 # RMakePackage
-[English messages - >](#en) 
-[日本語のメッセージ - >](#ja)   
+[English messages - >](#en)   
+[日本語のメッセージ - >](#ja) 
 
 ## <a name="en">Message
 
