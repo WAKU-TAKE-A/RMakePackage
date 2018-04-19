@@ -69,7 +69,7 @@ R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです
 R-3.4.0においても正常に動いています。
 
 ## 使い方
-(1) [[Rtools|https://cran.r-project.org/bin/windows/Rtools/]]をインストールし、Rtools\binのパスを通す。
+(1) [Rtools](https://cran.r-project.org/bin/windows/Rtools/)をインストールし、Rtools\binのパスを通す。
 
 ![MyJPG](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/install_rtools_01.jpg)
 
