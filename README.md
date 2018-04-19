@@ -71,7 +71,7 @@ R-3.4.0においても正常に動いています。
 ## 使い方
 (1) [Rtools](https://cran.r-project.org/bin/windows/Rtools/)をインストールし、Rtools\binのパスを通す。
 
-![MyJPG](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/install_rtools_01.jpg)
+![MyGIF](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/how_to_use_RMakePackage.gif)
 
 (2) 以下のファイルが同一のフォルダにあることを確認します。
 
