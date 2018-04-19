@@ -18,8 +18,7 @@ I created the script to make a package easily.
 It works well also in R-3.4.0.  
 
 ## How to use
-(1) Install "[[Rtools|https://cran.r-project.org/bin/windows/Rtools/]]".  
-(add the path of "Rtools\bin")
+(1) Install "[Rtools](https://cran.r-project.org/bin/windows/Rtools/)". Add the path of "Rtools\bin".
 
 (2) Make sure that the following files in the same folder.
 
@@ -29,7 +28,7 @@ It works well also in R-3.4.0.
   * r files
   * rd files (If necessary)
 
-(3) Fix properly the following files
+(3) Fix properly the following files.
 
   * _DESCRIPTION.txt
   * _INDEX.csv
@@ -70,11 +69,11 @@ R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです
 R-3.4.0においても正常に動いています。
 
 ## 使い方
-(1) [[Rtools|https://cran.r-project.org/bin/windows/Rtools/]]をインストールします（Rtools\binのパスを通すこと）
+(1) [[Rtools|https://cran.r-project.org/bin/windows/Rtools/]]をインストールし、Rtools\binのパスを通す。
 
 ![MyJPG](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/install_rtools_01.jpg)
 
-(2) 以下のファイルが同一のフォルダにあることを確認します
+(2) 以下のファイルが同一のフォルダにあることを確認します。
 
   * _DESCRIPTION.txt
   * _INDEX.csv
@@ -82,16 +81,16 @@ R-3.4.0においても正常に動いています。
   * rファイル（作った関数の入ったもの）
   * rdファイル（ドキュメント、必要であれば）
 
-(3) 以下のファイルを適切に修正してください
+(3) 以下のファイルを適切に修正してください。
 
   * _DESCRIPTION.txt
   * _INDEX.csv
     - パッケージ自体の説明を忘れないこと
     - 最終行を改行していること
 
-(4) 管理者権限でRを起動します
+(4) 管理者権限でRを起動します。
 
-(5) _RMakePackage.rを実行します
+(5) _RMakePackage.rを実行します。
 
   * ファイル ⇒ Rコードのソースを読込み
 
