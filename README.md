@@ -20,7 +20,9 @@ It works well also in R-3.4.0.
 ## How to use
 (1) Install "[Rtools](https://cran.r-project.org/bin/windows/Rtools/)". Add the path of "Rtools\bin".
 
-(2) Make sure that the following files in the same folder.
+(2) Please download the Zip file with the `Clone or download` button on the upper right of this page and then expand it.
+
+(3) Make sure that the following files in the same folder.
 
   * _DESCRIPTION.txt
   * _INDEX.csv
@@ -28,16 +30,16 @@ It works well also in R-3.4.0.
   * r files
   * rd files (If necessary)
 
-(3) Fix properly the following files.
+(4) Fix properly the following files.
 
   * _DESCRIPTION.txt
   * _INDEX.csv
     - Don't forget the description of the package itself.
     - Start a new line in the last line.
 
-(4) Start R by administrator.
+(5) Start R by administrator.
 
-(5) run _RMakePackage.r
+(6) run _RMakePackage.r
 
 ![MyGIF](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/how_to_use_RMakePackage.gif)
 
@@ -73,7 +75,9 @@ R-3.4.0においても正常に動いています。
 
 ![MyJpg](https://raw.githubusercontent.com/WAKU-TAKE-A/RMakePackage/master/img/install_rtools_01.jpg)
 
-(2) 以下のファイルが同一のフォルダにあることを確認します。
+(2) 本ページの右上の`Clone or download`ボタンで、Zipファイルをダウンロードし展開してください。
+
+(3) 以下のファイルが同一のフォルダにあることを確認します。
 
   * _DESCRIPTION.txt
   * _INDEX.csv
@@ -81,16 +85,16 @@ R-3.4.0においても正常に動いています。
   * rファイル（作った関数の入ったもの）
   * rdファイル（ドキュメント、必要であれば）
 
-(3) 以下のファイルを適切に修正してください。
+(4) 以下のファイルを適切に修正してください。
 
   * _DESCRIPTION.txt
   * _INDEX.csv
     - パッケージ自体の説明を忘れないこと
     - 最終行を改行していること
 
-(4) 管理者権限でRを起動します。
+(5) 管理者権限でRを起動します。
 
-(5) _RMakePackage.rを実行します。
+(6) _RMakePackage.rを実行します。
 
   * ファイル ⇒ Rコードのソースを読込み
 
