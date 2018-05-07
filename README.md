@@ -15,7 +15,7 @@ But making a package is difficult. The sequence is as follows.
 1. Build
 
 I created the script to make a package easily.  
-It works well also in R-3.4.0.  
+It works well also in R-3.5.0.  
 
 ## How to use
 (1) Install "[Rtools](https://cran.r-project.org/bin/windows/Rtools/)". Add the path of "Rtools\bin".
@@ -68,7 +68,7 @@ It works well also in R-3.4.0.
 私のスクリプトは複雑なことはできませんが、  
 本体以外はRtoolsさえあれば良い点と、手順が簡単な点が、気に入ってます。  
 R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです。  
-R-3.4.0においても正常に動いています。
+R-3.5.0においても正常に動いています。
 
 ## 使い方
 (1) [Rtools](https://cran.r-project.org/bin/windows/Rtools/)をインストールし、Rtools\binのパスを通す。
