@@ -27,6 +27,7 @@ It works well also in R-3.5.0.
   * _DESCRIPTION.txt
   * _INDEX.csv
   * _RMakePackage.r
+  * DemoOfMRP-package.Rd ("\title" and "\name" is required)
   * r files
   * rd files (If necessary)
 
@@ -68,7 +69,7 @@ It works well also in R-3.5.0.
 私のスクリプトは複雑なことはできませんが、  
 本体以外はRtoolsさえあれば良い点と、手順が簡単な点が、気に入ってます。  
 R-3.0.2あたりからR-3.3.1までに少しずつ改良を重ねたものです。  
-R-3.5.0においても正常に動いています。
+R-4.4.0においても正常に動いています。
 
 ## 使い方
 (1) [Rtools](https://cran.r-project.org/bin/windows/Rtools/)をインストールし、Rtools\binのパスを通す。
@@ -82,6 +83,7 @@ R-3.5.0においても正常に動いています。
   * _DESCRIPTION.txt
   * _INDEX.csv
   * _RMakePackage.r
+  * DemoOfMRP-package.Rd（\titleと\nameが必要）
   * rファイル（作った関数の入ったもの）
   * rdファイル（ドキュメント、必要であれば）
 

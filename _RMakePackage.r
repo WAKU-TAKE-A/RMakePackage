@@ -128,7 +128,7 @@
 		if(any(cond))
 		{
 			funcList <- funcList[cond]
-			print("STEP1：finish loading functions.")
+			print("STEP1:finish loading functions.")
 		}
 		else
 		{
@@ -146,7 +146,7 @@
 		
 		if(is.null(retTry))
 		{
-			print("STEP2：finish generating skeleton.")
+			print("STEP2:finish generating skeleton.")
 		}
 		else
 		{
@@ -166,7 +166,7 @@
 		
 		if(is.null(retTry))
 		{
-			print("STEP3：finish fixing NAMESPACE.")
+			print("STEP3:finish fixing NAMESPACE.")
 		}
 		else
 		{
@@ -184,7 +184,7 @@
 		
 		if(retTry == T)
 		{
-			msg <- paste("STEP4：finish fixing ", DESCRIPTION_FILE, ".", sep = "")
+			msg <- paste("STEP4:finish fixing ", DESCRIPTION_FILE, ".", sep = "")
 			print(msg)
 		}
 		else
@@ -311,7 +311,7 @@
 		
 		if(is.null(retTry))
 		{
-			print("STEP5：finish fixing Rd files.")
+			print("STEP5:finish fixing Rd files.")
 		}
 		else
 		{
@@ -330,7 +330,7 @@
 		
 		if(retTry == 0)
 		{
-			print("STEP6：finish checking the package.")
+			print("STEP6:finish checking the package.")
 		}
 		else
 		{
@@ -352,7 +352,7 @@
 		
 		if(retTry == 0)
 		{
-			print("STEP7：finish build")
+			print("STEP7:finish build")
 		}
 		else
 		{
