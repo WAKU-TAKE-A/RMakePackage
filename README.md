@@ -27,7 +27,7 @@ It works well also in R-3.5.0.
   * _DESCRIPTION.txt
   * _INDEX.csv
   * _RMakePackage.r
-  * DemoOfMRP-package.Rd ("\title" and "\name" is required)
+  * [package name].Rd ("\title" and "\name" is required)
   * r files
   * rd files (If necessary)
 
@@ -83,7 +83,7 @@ R-4.4.0においても正常に動いています。
   * _DESCRIPTION.txt
   * _INDEX.csv
   * _RMakePackage.r
-  * DemoOfMRP-package.Rd（\titleと\nameが必要）
+  * [パッケージ名].Rd（\titleと\nameが必要）
   * rファイル（作った関数の入ったもの）
   * rdファイル（ドキュメント、必要であれば）
 
